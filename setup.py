@@ -1,6 +1,6 @@
 import os
 
-print("""[0] pip\n[1] pip3\nWhich one do you use?""")
+print("""[0] pip\n[1] pip3\nWhich one you wanna to use ?""")
 
 c = input(">>>: ")
 if c == "0":
