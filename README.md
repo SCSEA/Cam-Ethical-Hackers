@@ -15,13 +15,13 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/Yousuf9963/Cam-Ethical-Hackers.git
+git clone https://github.com/SCSEA/Cam-Ethical-Hackers.git
 
 cd Cam-Ethical-Hackers
 
 chmod +x *
 
-python3 setup.py
+py0thon3 setup.py
 
 pip3 install -r requirements.txt
 
