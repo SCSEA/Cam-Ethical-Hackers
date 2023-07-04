@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-import os
-print('Chack Update')
+import os, time as t
+os.system('clear')
+t.sleep(3)
+print('Check Update')
 os.system('git pull')
 os.system('clear')
 # Regular Colors
