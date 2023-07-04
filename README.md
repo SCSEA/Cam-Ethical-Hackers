@@ -19,11 +19,11 @@ git clone https://github.com/Yousuf9963/Cam-Ethical-Hackers.git
 
 cd Cam-Ethical-Hackers
 
+chmod +x *
+
 python3 setup.py
 
 pip3 install -r requirements.txt
-
-chmod +x *
 
 python3 cctv.py
 
