@@ -1,7 +1,7 @@
 # Cam-Ethical-Hackers
 
 #Successfully Updated
-https://github.com/SCSEA/Cam-Ethical-Hackers/tree/main
+https://github.com/SCSEA/Cam-Ethical-Hackers
 
 is the process of attempting to hack into a person's webcam and activate it without the webcam owner's permission.[1] The remotely activated webcam can be used to watch anything within the webcam's field of vision, sometimes including the webcam owner themselves. Camfecting is most often carried out by infecting the victim's computer with a virus that can provide the hacker access to their webcam. This attack is specifically targeted at the victim's webcam, and hence the name camfecting, a portmanteau of the words camera and infecting.
 
