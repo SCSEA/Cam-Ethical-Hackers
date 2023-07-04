@@ -1,6 +1,7 @@
 # Cam-Ethical-Hackers
-#under update
-https://github.com/Yousuf9963/Cam-Ethical-Hackers/blob/main/68747470733a2f2f74656c656772612e70682f66696c652f6231333261313331616162653231303662643333352e676966.gif
+
+#Successfully Updated
+https://github.com/SCSEA/Cam-Ethical-Hackers/tree/main
 
 is the process of attempting to hack into a person's webcam and activate it without the webcam owner's permission.[1] The remotely activated webcam can be used to watch anything within the webcam's field of vision, sometimes including the webcam owner themselves. Camfecting is most often carried out by infecting the victim's computer with a virus that can provide the hacker access to their webcam. This attack is specifically targeted at the victim's webcam, and hence the name camfecting, a portmanteau of the words camera and infecting.
 
@@ -18,11 +19,13 @@ git clone https://github.com/Yousuf9963/Cam-Ethical-Hackers.git
 
 cd Cam-Ethical-Hackers
 
-pip install -r requirements.txt
+python3 setup.py
+
+pip3 install -r requirements.txt
 
 chmod +x *
 
-python3 Cam-ethical-hackers.py
+python3 cctv.py
 
 Choose the option you want: example 1
 
