@@ -1,3 +1,5 @@
+import os
+
 print("""[0] pip\n[1] pip3\nWhich one do you use?""")
 
 c = input(">>>: ")
