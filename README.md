@@ -9,7 +9,7 @@ Typically, a webcam hacker or a camfecter sends his victim an innocent-looking a
 
 # Installation
 
-pkg update && pkg upgrade -y
+ apt update && apt upgrade -y
 
 pkg install git
 
