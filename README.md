@@ -21,7 +21,7 @@ cd Cam-Ethical-Hackers
 
 chmod +x *
 
-py0thon3 setup.py
+python3 setup.py
 
 pip3 install -r requirements.txt
 
